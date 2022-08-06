@@ -1,10 +1,10 @@
-console.log('hello world')
-console.log('Hello Auro Saswat ')
+// console.log('hello world')
+// console.log('Hello Auro Saswat ')
 
 // Variables
-name='Auro'
-console.log(name)
-sentance ='How are you doing today,nice to see, hope you have a good day!'
+// name='Auro'
+// console.log(name)
+// sentance ='How are you doing today,nice to see, hope you have a good day!'
 
 
 /* There are 3 types of variables
@@ -20,13 +20,13 @@ sentance ='How are you doing today,nice to see, hope you have a good day!'
 // else 👉🏼"Wearyour Sunglasses 😎"
 // Use Twillo For Real time SMS Messaging..!
 
-let weather=prompt("How is the weather")
-if(weather=='rainy'){
-  console.log('Grab your Umbrella ☔')
-}
-else{
-  console.log('Wearyour Sunglasses 😎')
-}
+// let weather=prompt("How is the weather")
+// if(weather=='rainy'){
+//   console.log('Grab your Umbrella ☔')
+// }
+// else{
+//   console.log('Wearyour Sunglasses 😎')
+// }
 
 
 
@@ -68,4 +68,27 @@ Floor - Rounds down--> Math.floor()
 Ceil - Rounds up--> Math.ceil()
 Random - gives u a Random Number between 0 AND 1--> Math.random()
 */
+
+// Functions
+function sayMyName(name){
+  console.log(name)
+  console.log("Saswat")
+  console.log("Raj")
+}
+
+sayMyName("Auro")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
